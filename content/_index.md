@@ -44,12 +44,11 @@ sections:
       subtitle: ''
       text: |-
         I am currently a first-year master's student in the five-year integrated doctoral program (5D program) at the Japan Advanced Institute of Science and Technology (JAIST).
+        Please reach out to collaborate 😃
 
     # My research lies at the intersection of **Computer Vision** and **Medical Artificial Intelligence**, with a strong focus on building lightweight, clinically deployable deep learning models. My current work centers on morphology-preserving knowledge distillation for medical image segmentation across different modalities (such as fundus photography and OCT angiography), as well as multi-modal representation learning.
         # By exploring both vision and natural language processing in healthcare, I aim to develop robust AI tools that assist physicians in accurate diagnosis and streamline clinical workflows.
-
-    design:
-      Please reach out to collaborate 😃
+      
     design:
       columns: '1'
   - block: collection
