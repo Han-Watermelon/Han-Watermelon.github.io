@@ -47,7 +47,6 @@ sections:
         My research lies at the intersection of **Computer Vision** and **Medical Artificial Intelligence**, with a strong focus on building lightweight, clinically deployable deep learning models. My current work centers on morphology-preserving knowledge distillation for medical image segmentation across different modalities (such as fundus photography and OCT angiography), as well as multi-modal representation learning.
 
         By exploring both vision and natural language processing in healthcare, I aim to develop robust AI tools that assist physicians in accurate diagnosis and streamline clinical workflows.
-
         Please feel free to reach out for discussions or potential collaborations! 😃
     design:
 
