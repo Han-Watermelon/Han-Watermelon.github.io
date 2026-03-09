@@ -49,8 +49,7 @@ sections:
         # By exploring both vision and natural language processing in healthcare, I aim to develop robust AI tools that assist physicians in accurate diagnosis and streamline clinical workflows.
 
     design:
-
-        Please reach out to collaborate 😃
+      Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
