@@ -2,10 +2,10 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
+  display: Mr. Han SHU
+  given: Han
+  family: SHU
+  alternate: '舒涵'  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: he/him
 postnominals:
@@ -40,30 +40,30 @@ links:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Multimodal AI
+  - Medical Image Analysis
+  - Surgical Vision Report Generation
+  - Knowledge Distillation
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
+  # - degree: PhD Computer Science
+  #   institution: Stanford University
+  #   start: 2015-09-01
+  #   end: 2019-06-30
+  #   summary: |
+  #     Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+  #   button:
+  #     text: Download dissertation
+  #     url: /resume.pdf
+  #     icon: hero/arrow-down-tray
   - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
+    institution: Japan Advanced Institute of Science and Technology
+    start: 2025-09
+    end: 2027-06
   - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+    institution: HMC
+    start: 2021-09
+    end: 2025-06
 
 experience:
   - role: Senior AI Research Scientist

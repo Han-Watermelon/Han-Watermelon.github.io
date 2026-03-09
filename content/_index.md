@@ -1,8 +1,8 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
+title: 'Han SHU'
 summary: ''
-date: 2022-10-24
+date: 2003-12-06
 type: landing
 
 design:
@@ -13,7 +13,7 @@ sections:
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: me
+      username: admin
       text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
