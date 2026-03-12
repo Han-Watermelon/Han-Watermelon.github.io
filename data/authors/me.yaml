@@ -2,8 +2,8 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 # Avatar/image for your profile (place file in static/uploads/ or static/images/)
-# Example: image: "uploads/avatar.png"
-image: "uploads/me1.png"
+# Example: image: "/uploads/avatar.png"
+image: "/uploads/me1.png"
 name:
   display: Mr. Han SHU
   given: Han
@@ -60,7 +60,7 @@ education:
     institution: Japan Advanced Institute of Science and Technology
     start: 2025-09
     end: 2027-06
-    
+
   - degree: BS Computer Science
     institution: HMC
     start: 2021-09
