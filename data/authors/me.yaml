@@ -3,7 +3,7 @@ slug: me
 is_owner: true
 # Avatar/image for your profile (place file in static/uploads/ or static/images/)
 # Example: image: "uploads/avatar.png"
-image: "static/uploads/avatar.png"
+image: "uploads/me1.png"
 name:
   display: Mr. Han SHU
   given: Han
@@ -28,8 +28,8 @@ links:
   - icon: at-symbol
     url: shu.han@jaist.ac.jp
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
+  # - icon: brands/x
+  #   url: https://x.com/example
   - icon: brands/github
     url: https://github.com/Han-Watermelon
   # - icon: brands/linkedin
@@ -60,6 +60,7 @@ education:
     institution: Japan Advanced Institute of Science and Technology
     start: 2025-09
     end: 2027-06
+    
   - degree: BS Computer Science
     institution: HMC
     start: 2021-09
