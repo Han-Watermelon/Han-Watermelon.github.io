@@ -3,7 +3,7 @@ slug: me
 is_owner: true
 # Avatar/image for your profile (place file in static/uploads/ or static/images/)
 # Example: image: "/uploads/avatar.png"
-image: "/uploads/me1.png"
+image: "\\uploads\\me1.png"
 name:
   display: Mr. Han SHU
   given: Han
@@ -12,8 +12,7 @@ name:
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: he/him
 postnominals:
-  - PhD
-  - MIEEE
+  - M.A.Sc
 status:
   icon: "☕️"
 role: First-year Master's Student in 5D Program
