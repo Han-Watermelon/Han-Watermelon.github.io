@@ -1,8 +1,8 @@
 ---
-title: "An example journal article"
+title: "FKD-Med: Privacy-Aware, Communication-Optimized Medical Image Segmentation via Federated Learning and Model Lightweighting through Knowledge Distillation"
 authors:
-- me
-- Robert Ford
+- Han SHU
+- Guanqun SUN
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -17,39 +17,42 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "IEEE Access"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Advances in deep learning have revolutionized medical image segmentation, facilitating the precise delineation of complex anatomical structures. The scarcity of annotated training samples remains a significant bottleneck. To tackle the data limitation, federated learning (FL) offers the promise of pooling data from multiple healthcare institutions.  However, as models grow larger, the increase in communication costs restricts FL to fewer nodes, which constrains the volume of data. This situation necessitates the simultaneous achievement of model lightweighting. To address this problem, this study proposes FKD-Med, a novel framework that integrates FL for privacy-sensitive data amalgamation across multiple healthcare institutions, and uses knowledge distillation (KD) to enhance communication efficiency. The "Med" in FKD-Med refers to medical application computational problems. Our principal contributions encompass the design of an open-source framework that seamlessly blends FL and KD, rendering it applicable to a broad spectrum of medical informatics tasks. Our approach substantially augments the computational data volume, thereby boosting both communication efficiency and training throughput. Tested on two datasets of medical image segmentation using TransUNet and ResUNet as teacher models, FKD-Med achieves data privacy, lowers communication costs, and increases accuracy. The parameters of the student models were reduced to 1/127 and 1/1027 of those in the teacher models. Additionally, the models subjected to KD exhibited accuracy improvements of 0.25\%, 0.43\%, 1.35\%, and 1.46\% respectively, given the same parameter volume. This positions FKD-Med not only as a pivotal tool for multi-institutional medical research but also as a versatile platform adaptable to a wide array of real-world medical engineering applications.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Medical Image Segmentation
+- Federated Learning
+- Knowledge Distillation
+- U-Net
 featured: false
 
-hugoblox:
-  ids:
-    arxiv: 1512.04133v1
+# hugoblox:
+#   ids:
+#     arxiv: 1512.04133v1
 
-links:
-  - type: pdf
-    url: http://arxiv.org/pdf/1512.04133v1
-  - type: code
-    url: https://github.com/HugoBlox/kit
-  - type: dataset
-    url: ""
-  - type: poster
-    url: ""
-  - type: project
-    url: ""
-  - type: slides
-    url: https://www.slideshare.net/
-  - type: source
-    url: ""
-  - type: video
-    url: ""
+# links:
+#   - type: pdf
+#     url: http://arxiv.org/pdf/1512.04133v1
+#   - type: code
+#     url: https://github.com/HugoBlox/kit
+#   - type: dataset
+#     url: ""
+#   - type: poster
+#     url: ""
+#   - type: project
+#     url: ""
+#   - type: slides
+#     url: https://www.slideshare.net/
+#   - type: source
+#     url: ""
+#   - type: video
+#     url: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

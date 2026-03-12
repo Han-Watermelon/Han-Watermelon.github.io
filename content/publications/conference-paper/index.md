@@ -33,7 +33,7 @@ abstract: Accurate long-term forecasting of influenza-like illness (ILI) is esse
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Large Language Models
+  - Epidemic Forecasting
 
 # Display this page in the Featured widget?
 featured: true
