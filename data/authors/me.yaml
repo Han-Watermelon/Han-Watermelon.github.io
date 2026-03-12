@@ -1,6 +1,9 @@
 schema: hugoblox/author/v1
 slug: me
 is_owner: true
+# Avatar/image for your profile (place file in static/uploads/ or static/images/)
+# Example: image: "uploads/avatar.png"
+image: "uploads/avatar.png"
 name:
   display: Mr. Han SHU
   given: Han
