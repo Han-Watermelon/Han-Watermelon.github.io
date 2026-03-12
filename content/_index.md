@@ -76,7 +76,7 @@ sections:
         exclude_future: false
         exclude_past: false
     design:
-      view: list
+      view: card
         
   - block: markdown
     content:
