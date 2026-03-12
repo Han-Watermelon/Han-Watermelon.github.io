@@ -44,15 +44,15 @@ hugoblox:
     colors_light: {}
     colors_dark: {}
     # Optional: Semantic surface color overrides
-    surfaces:
-      background: "white"
-      foreground: "black"
-      header:
-        background: "white"
-        foreground: "black"
-      footer:
-        background: "white"
-        foreground: "black"
+    # surfaces:
+    #   background: "white"
+    #   foreground: "black"
+    #   header:
+    #     background: "white"
+    #     foreground: "black"
+    #   footer:
+    #     background: "white"
+    #     foreground: "black"
 
   # ────────────────────────────────────────────────────────────────────────────
   # TYPOGRAPHY
@@ -83,7 +83,7 @@ hugoblox:
   header:
     enable: true
     # Header style variant
-    style: navbar-simple                # navbar | navbar-simple | minimal
+    style: navbar                       # navbar | navbar-simple | minimal
     # Stick to top on scroll
     sticky: false
     # Menu alignment
