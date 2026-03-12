@@ -5,8 +5,8 @@ title: 'Retrospective State Fusion with Query-Guided Weighting for Long-Range Ep
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - me
-  - Robert Ford
+  - Qi YUAN
+  - Han SHU
 
 # Author notes (optional)
 author_notes:
@@ -27,7 +27,7 @@ publication_types: ['paper-conference']
 publication: In *HugoBlox Kit Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Accurate long-term forecasting of influenza-like illness (ILI) is essential for effective public health planning and resource allocation. State-of-the-art Spatio-Temporal Graph Neural Networks (STGNNs), however, often create an information bottleneck by compressing historical time-series into a fixed-size representation or using only the final hidden state of a recurrent neural network (RNN), thereby losing crucial sequential dynamics. In this paper, we propose a novel dual-stream STGNN architecture to address this limitation. Our primary contribution is the Retrospective Attention Module (RAM), which introduces a Query-Guided Weighting mechanism to dynamically aggregate the entire sequence of an RNN's hidden states. This mechanism uses the final hidden state as a query to assign adaptive weights to all previous states, generating a comprehensive temporal representation. This enhanced representation subsequently informs the learning of a dynamic spatial attention graph, facilitating a more robust fusion of spatio-temporal dependencies. Extensive experiments on two public U.S. influenza datasets demonstrate that our model, RAM-GNN, achieves state-of-the-art (SOTA) results. It significantly outperforms strong baselines in long-term forecasting, reducing the Root Mean Squared Error (RMSE) by up to 15.3\% on 10-week-ahead predictions and improving the Pearson Correlation Coefficient (PCC) by up to 21.3\% on 15-week-ahead predictions. Our findings underscore the importance of preserving and adaptively weighting complete sequential information for robust long-range spatio-temporal forecasting.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

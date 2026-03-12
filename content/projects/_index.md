@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Show Projects
+      text: In my spare time from scientific research, I enjoy implementing some SaaS projects using software development technologies. Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
           - projects

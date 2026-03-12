@@ -99,7 +99,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 4
       
   - block: collection
     content:
@@ -108,9 +108,10 @@ sections:
       filters:
         folders:
           - publications
-        exclude_featured: false
+        exclude_featured: true
     design:
       view: citation
+      columns: 5
   # - block: collection
   #   id: talks
   #   content:
