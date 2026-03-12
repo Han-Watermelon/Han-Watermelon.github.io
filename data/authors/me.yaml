@@ -18,29 +18,26 @@ status:
   icon: "☕️"
 role: First-year Master's Student in 5D Program
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  I'm a first-year Master's student in the 5D Program at Japan Advanced Institute of Science and Technology (JAIST). My research focuses on multimodal AI, medical image analysis, surgical vision report generation, and knowledge distillation. I am passionate about advancing the field of artificial intelligence and applying it to real-world problems in healthcare.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Japan Advanced Institute of Science and Technology
+    url: https://www.jaist.ac.jp/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: shu.han@jaist.ac.jp
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://github.com/Han-Watermelon
+  # - icon: brands/linkedin
+  #   url: https://www.linkedin.com/in/example/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?user=XpMredsAAAAJ&hl=zh-CN
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0009-4992-2472
 
 interests:
   - Multimodal AI
@@ -105,15 +102,15 @@ skills:
 
 languages:
   - name: English
-    level: 5
-    label: Native
-  - name: Spanish
     level: 4
     label: Fluent
+  - name: Chinese
+    level: 5
+    label: Native
 
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+# awards:
+#   - title: Best Paper Award
+#     awarder: NeurIPS
+#     date: "2022-12-01"
+#     summary: Awarded for groundbreaking work on efficient training of large models.
+#     icon: hero/trophy
