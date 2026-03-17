@@ -30,7 +30,7 @@ tags:
 - Federated Learning
 - Knowledge Distillation
 - U-Net
-featured: false
+featured: true
 
 # hugoblox:
 #   ids:
