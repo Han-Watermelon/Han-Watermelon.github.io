@@ -108,7 +108,7 @@ sections:
       filters:
         folders:
           - publications
-        exclude_featured: true
+        exclude_featured: false
     design:
       view: citation
       columns: 5

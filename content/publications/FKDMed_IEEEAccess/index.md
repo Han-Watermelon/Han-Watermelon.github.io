@@ -1,15 +1,17 @@
 ---
 title: "FKD-Med: Privacy-Aware, Communication-Optimized Medical Image Segmentation via Federated Learning and Model Lightweighting through Knowledge Distillation"
 authors:
-- Han SHU
 - Guanqun SUN
+- Han SHU
+- Le-Minh Nguyen
+- Junyi Xin
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2025-09-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-10-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

@@ -3,13 +3,15 @@ title: "Morphology-Aware Distillation for Lightweight Retinal Vessel Segmentatio
 authors:
 - Han SHU
 - Guanqun SUN
+- Yizhi PAN
+- Qi YUAN
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2026-04-01T00:00:00Z"
+date: "2026-04"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2026-10"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
